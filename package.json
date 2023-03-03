@@ -34,7 +34,7 @@
     "imports-loader": "^0.6.5",
     "jasmine-core": "^2.4.1",
     "json-loader": "^0.5.4",
-    "karma": "^3.0.0",
+    "karma": "^6.4.1",
     "karma-chrome-launcher": "^1.0.1",
     "karma-firefox-launcher": "^1.0.0",
     "karma-jasmine": "^1.0.2",
@@ -42,6 +42,6 @@
     "postcss-loader": "^0.10.1",
     "style-loader": "^0.13.1",
     "url-loader": "^1.1.2",
-    "webpack": "^1.12.14"
+    "webpack": "^5.75.0"
   }
 }
